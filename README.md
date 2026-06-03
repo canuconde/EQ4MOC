@@ -164,3 +164,13 @@ This means the software can be:
 
 For more information:
 [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
+
+---
+
+### Support
+
+If you like EQ4MOC and want to support its development, you can make a donation via PayPal. Your support helps keep the project alive and improving.
+
+[Donate with PayPal](https://www.paypal.com/donate/?hosted_button_id=YRVYX8MBZCP9W)
+
+---
