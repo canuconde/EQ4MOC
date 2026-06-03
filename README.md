@@ -64,11 +64,25 @@ Inspired by classic console applications:
 * Linux
 * g++
 * ncurses
+* meson (optional)
 * Music On Console (MOC)
 
 ---
 
 ## Compilation
+
+### Compiling with Meson
+
+If you have Meson installed, you can build EQ4MOC with
+
+```
+meson build
+cd build
+ninja
+ninja install
+```
+
+### Compiling with provided `makefile`
 
 You will need normal build tooling installed such as make and g++.
 You will also need the ncurses development libraries.
@@ -80,7 +94,9 @@ You will also need the ncurses development libraries.
     make
 
     sudo make install
-    
+
+### Precompiled binaries
+
 If you are using a Debian-like distro, you can try using these precompiled binaries
 (both were generated with checkinstall):
 
